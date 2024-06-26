@@ -34,11 +34,3 @@ This Car Racing Game is built using HTML, CSS, and JavaScript. The player contro
    - Right Arrow: Move Right
 4. Avoid collisions with enemy cars.
 5. The game ends if you collide with an enemy car. Your final score will be displayed.
-
-## Installation
-
-To run the game locally, follow these steps:
-
-1. Clone the repository to your local machine:
-   ```sh
-   git clone https://github.com/your-username/car-racing-game.git
